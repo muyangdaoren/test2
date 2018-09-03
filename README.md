@@ -3,5 +3,9 @@ for test
 
 void main()
 {
-  std::cout <<"hello world!123456789"<<std::endl;
+ for(int i = 0; i<100; i++)
+ {
+  std::cout <<"helaaaaaaaalo world!123456789"<<std::endl;
+ }
+ system("pause");
 }
