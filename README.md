@@ -3,5 +3,5 @@ for test
 
 void main()
 {
-  std::cout <<"hello world!"<<std::endl;
+  std::cout <<"hello world!123456789"<<std::endl;
 }
